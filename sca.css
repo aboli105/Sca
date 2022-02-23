@@ -2,9 +2,12 @@ body{
     margin: auto;
    
 }
+.new{
+   
+}
 .carousel {
     position: relative;
-    height: 82%;
+    height: 500px;
 }
 .carousel-item > img{
     height: 100%;
