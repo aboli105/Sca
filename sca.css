@@ -33,9 +33,9 @@ body{
 .carousel-caption> h1 {
     font-size: 3.5rem;
 }
-#vedic > .card{
-    margin-left:38%;
-    margin-top:3%;
+#vedic > .card {
+    margin-left: 37%;
+    margin-top: 3%;
 }
 #box{width:3%;
     border:1px black solid;
@@ -138,10 +138,10 @@ body{
 }
 #sca {
     color: whitesmoke;
-    width: 32%;
+    width: 39%;
     height: 192px;
     float: left;
-    margin-left: 9%;
+    margin-left: 4%;
     margin-top: 8%;
     margin-top: 4%;
 }
@@ -160,7 +160,7 @@ body{
     color: #fff;
     background-color: #0d6efd;
     border-color: #0d6efd;
-    margin-left: 10%;
+    margin-left: 5%;
 }
 #location{
     height: 500px;
@@ -213,7 +213,7 @@ background-color: #181d34;
 
 footer{
     height: 100px;
-width: auto;
+width: 100%;
 border: 1px solid black ;
 
 }
