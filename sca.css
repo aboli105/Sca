@@ -181,6 +181,33 @@ background-color: #181d34;
     margin-bottom: 0.5rem;
     color: white;
 }
+#social{
+    margin-top:1%;
+    height:30px;
+    width: auto;
+    
+    background-color: yellow;
+
+}
+#social2{
+    height:30px;
+    width: auto;
+    background-color: #181d34;
+  
+
+}
+
+    .social1 {
+        margin-left: 38%;
+    }
+
+.social1 >i{
+    margin-left:5%;
+}
+#social2 > h5{
+    margin-left:35%;
+    color:white;
+}
 
 
 
