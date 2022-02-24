@@ -43,16 +43,16 @@ body{
 }
 
 #testimonials{
-    height: 700px;
+    height: 620px;
     width: auto;
-    border: 1px solid black ;
+ 
 }
 #heading1 {
     height: 50px;
     width: 70%;
     margin-left: 15%;
     margin-top: 1%;
-    border: 1px solid black;
+   
     color: #d5d9bf;
     text-align: center;
     font-style: italic;
@@ -62,7 +62,7 @@ body{
     width: 83%;
     margin-left: 107px;
     margin-top: 1%;
-    border: 1px solid black;
+  
 }
  .review >.bi  {
     color: #ffffff70;
@@ -76,7 +76,7 @@ body{
     width: 40%;
     margin-left: 64px;
     margin-top: 1%;
-    border: 1px solid black;
+    
     float: left;
 }
 
@@ -91,6 +91,14 @@ body{
    
 }
 
+    #down {
+        color: whitesmoke;
+        margin-top: 2%;
+        margin-left: 47%;
+        font-size: 233%;
+    }
+
+
 
 #more{
     margin-left: 3%;
@@ -102,20 +110,22 @@ body{
     margin-left: 4%;
     margin-top: 1%;
     color: white;
-    background-color: #7e6a7c;
+   
 }
 .image3 {
-    width: 60%;
-    height: 357px;
-   
+    width: 44%;
+    height: 351px;
     float: left;
     margin-left: 4%;
     margin-top: 1%;
-
 }
 .image3 .carousel {
    
     height: 100%;
+}
+#font{
+    margin-top: 2%;
+    
 }
 .image2 {
     width: 44%;
@@ -124,30 +134,52 @@ body{
     margin-left: 4%;
     margin-top: 1%;
     color: white;
-    background-color: #4f627e;
+   
 }
 #sca {
     color: whitesmoke;
     width: 32%;
     height: 192px;
     float: left;
-    margin-left: 3%;
+    margin-left: 9%;
     margin-top: 8%;
-    mardin-top: 4%;
+    margin-top: 4%;
 }
 .image1 > img{
     width: 100%;
     height: 357px;
 }
-#b1{
-    margin-left:7%;
-    margin-top:3%;
+
+
+
+#b1 {
+    margin-left: 8%;
+    margin-top: 28%;
 }
 #b1>.btn-primary {
     color: #fff;
     background-color: #0d6efd;
     border-color: #0d6efd;
-    margin-left: 3%;
+    margin-left: 10%;
+}
+#location{
+    height: 500px;
+width: auto;
+
+background-color: #181d34;
+
+}
+.map {
+    margin-top: 3%;
+    margin-left: 6%;
+    height: 400px;
+    width: 40%;
+    float: left;
+  
+}
+.mb-3>.form-label {
+    margin-bottom: 0.5rem;
+    color: white;
 }
 
 
