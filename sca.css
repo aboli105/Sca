@@ -406,6 +406,11 @@ width: auto;
         margin-top: 0px;
     }
 }
+@media screen and (max-width:1020px){
+    body{
+        background-color: rgb(139, 114, 114);
+    }
+}
 @media screen and (max-width:966px){
     body{
         background-color: rgb(139, 114, 114);
