@@ -1,0 +1,20 @@
+body{
+    margin: auto;
+}
+
+
+.navbar-brand > img {
+    
+    width: 9%;
+}
+.card {
+    margin-top: 5%;
+    margin-left: 17%;
+    width: 70%;}
+    .col-12 {
+        margin-left: 1%;
+    }
+    .card-header:first-child {
+        color: white;
+        background-color: #619aef;
+    }
