@@ -1,0 +1,9 @@
+body{
+    margin: auto;
+}
+
+
+.navbar-brand > img {
+    
+    width: 9%;
+}
