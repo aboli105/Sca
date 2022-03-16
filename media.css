@@ -7,3 +7,22 @@ body{
     
     width: 9%;
 }
+#media{
+    height: 1106px;
+    width: auto;
+   
+    margin-top: 2%;
+}
+.img {
+    height: 253px;
+    width: 24%;
+    box-shadow: 10px 20px 10px grey;
+    margin-top: 2%;
+    margin-left: 8%;
+    float: left;
+}
+.img >img{
+    height: 253px;
+    width: 100%;
+}
+
