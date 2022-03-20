@@ -13,6 +13,9 @@ body{
     vertical-align: middle;
     width: 9%;
 }
+.navbar-light .navbar-brand {
+    color: rgb(235 229 229 / 90%);
+}
 #coupn{
     height: 280px;
     width:48%;
@@ -24,6 +27,76 @@ body{
     position: absolute;
     background-repeat: no-repeat;
     
+}
+#aboutsca{
+    height: 500px;
+    width:auto;
+    
+    background-image: url(./images/simple-abstract-dark-grey-wavy-background-with-overlayed-sheets-of-paper-modern-corporate-desing-vector.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+}
+
+#aboutsca1{
+    height: 550px;
+    width:auto;
+   
+   background-image: url(./images/abt-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+}
+#head1{
+    height: 100px;
+    width:50%;
+    margin-top:16;
+    margin-left:3%;
+
+    
+
+}
+#head1 >img {
+    height: 100px;
+    width:100%;
+}
+#course{
+    height: 320px;
+    width: 94%;
+   
+    margin-left: 3%;
+   
+    color:white
+}
+#bt {
+  
+    height: 50px;
+    width: 10%;
+    margin-top: 4%;
+    margin-left: 48%;
+}
+.pic {
+    height: 248px;
+    width: 25%;
+    margin-top: 3%;
+    margin-left: 7%;
+    box-shadow: 10px 20px 10px grey;
+    float: left;
+}
+.name {
+    height: 50px;
+    width: 70%;
+    margin-top: 14%;
+    margin-left: 26%;
+    float: left;
+    
+    color: grey;
+}
+
+
+.pic > img {
+    height: 246px;
+    width: 100%;
 }
 #coupn >.btn{
     margin-left: 97%;
@@ -49,7 +122,7 @@ body{
 }
     
 #maindiv{
-    height: 1600px;
+    height: 0px;
     width: auto;
 
     
