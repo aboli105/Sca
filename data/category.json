@@ -1,0 +1,15 @@
+[
+    {
+        "id":1,
+        "category": "Scholarship"
+    },
+    {
+        "id":2,
+        "category":"Vedic Maths"
+    },
+    {
+        "id":3,
+        "category":"Abacus"
+    }
+    
+]

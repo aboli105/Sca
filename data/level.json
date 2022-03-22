@@ -1,0 +1,61 @@
+[    
+    {
+        "id": 1,
+        "Level": "Level-1",
+        "category": "Vedic Maths",
+        "category_id": 2,
+        "Price": 2499,
+        "Image":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
+        "Duration": "3 Months"
+        
+    },
+    {
+       "id": 2,
+       "Level": "Level-1",
+        "category": "Vedic Maths",
+        "category_id": 2,
+        "Price": 2499,
+        "Image":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
+        "Duration": "3 Months"
+        
+    },
+    {
+    },
+    {
+        "id": 3,
+        "Level": "Level-1",
+        "category": "Vedic Maths",
+        "category_id": 2,
+        "Price": 2499,
+        "Image":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
+        "Duration": "3 Months"
+        
+    },
+    
+    {
+         "id": 4,
+         "Level": "Level-1",
+         "category": "Vedic Maths",
+         "category_id": 2,
+         "Price": 2499,
+         "Image":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
+         "Duration": "3 Months"
+         
+     },
+     
+     {
+        "Level": "Level-1",
+        "category": "Vedic Maths",
+        "category_id": 2,
+        "Price": 2499,
+        "Image":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
+        "Duration": "3 Months"
+        
+    }
+    
+    
+    
+
+
+
+]
