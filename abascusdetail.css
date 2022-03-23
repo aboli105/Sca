@@ -1,0 +1,65 @@
+body{
+    margin: auto;
+}
+.navbar-brand > img {
+    vertical-align: middle;
+    width: 9%;
+
+}
+#detail {
+    margin-top: 6%;
+    height: 1198px;
+    width: 85%;
+    background-color: #0c2242;
+    margin-left: 8%;
+}
+#box1 {
+    height: 344px;
+    width: 45%;
+
+    float: left;
+}
+#box1 >img {
+    height: 340px;
+    width: 98%;
+}
+#box2 {
+    height: 386px;
+    width: 55%;
+   
+    float: left;
+    background-color: rgb(12, 34, 66);
+}
+#box3{
+    height: 386px;
+    width: 80%;
+    margin-left:3%;
+   
+    
+ 
+   
+}
+.dis1 {
+    display: inline-block;
+    height: 770px;
+    width: auto;
+    color:white;
+    margin-top: 2%;
+}
+   
+.dis {
+    display: inline-block;
+    height: 215px;
+    width: auto;
+    margin-top: 2%;
+    color:white;
+   
+}
+.dis2 {
+    display: inline-block;
+    height: 199px;
+    width: auto;
+    margin-top: 5%;
+    color:white;
+  
+}

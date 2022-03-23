@@ -49,8 +49,9 @@ body{
     width: 9%;
 }
 #level {
-    height: 1000px;
+    height: 1021px;
     width: auto;
+    border:1px solid black;
 }
 #level1 {
     margin-left: 4%;
@@ -98,4 +99,3 @@ body{
     width: 63%;
     float: left;
 }
-
