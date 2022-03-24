@@ -1,15 +1,18 @@
 [
     {
         "id":1,
-        "category": "Scholarship"
+        "category": "Scholarship",
+        "image": "https://i.ibb.co/ZdkQxnr/scholarship-logo-696x522.png" 
     },
     {
         "id":2,
-        "category":"Vedic Maths"
+        "category":"Vedic Maths",
+        "image": "https://i.ibb.co/PthGKMZ/maths.jpg"
     },
     {
         "id":3,
-        "category":"Abacus"
+        "category":"Abacus",
+        "image": "https://i.ibb.co/Q8zkD1Z/MOUNTAIN-2.png" 
     }
     
 ]

@@ -1,11 +1,23 @@
 [    
     {
         "id": 1,
+        "Level_id":1,
         "Level": "Level-1",
         "category": "Vedic Maths",
         "category_id": 2,
         "Price": 2499,
-        "Imagea href":"https://i.ibb.co/s2zqjdj/level1.png" ,
+        "Imagea src":"https://i.ibb.co/s2zqjdj/level1.png" ,
+        "Duration": "3 Months"
+        
+    },
+    {
+        "id": 1,
+        "Level_id":1,
+        "Level": "Level-1",
+        "category": "abacus",
+        "category_id": 3,
+        "Price": 3499,
+        "Imagea src":"https://i.ibb.co/c34ML2G/309236516-H.webp", 
         "Duration": "3 Months"
         
     }

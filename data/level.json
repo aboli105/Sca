@@ -2,57 +2,128 @@
     {
         "id": 1,
         "Level": "Level-1",
-        "category": "Vedic Maths",
+        "category": " abacus",
         "category_id": 2,
         "Price": 2499,
-        "Image":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
+        "Image src":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
         "Duration": "3 Months"
         
     },
     {
        "id": 2,
-       "Level": "Level-1",
-        "category": "Vedic Maths",
+       "Level": "Level-2",
+        "category": " abacus",
         "category_id": 2,
         "Price": 2499,
-        "Image":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
+        "Image src":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
         "Duration": "3 Months"
         
     },
-    {
-    },
+    
+    
     {
         "id": 3,
-        "Level": "Level-1",
-        "category": "Vedic Maths",
+        "Level": "Level-3",
+        "category": " abacus",
         "category_id": 2,
         "Price": 2499,
-        "Image":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
+        "Image src":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
         "Duration": "3 Months"
         
     },
     
     {
          "id": 4,
-         "Level": "Level-1",
-         "category": "Vedic Maths",
+         "Level": "Level-4",
+         "category": " abacus",
          "category_id": 2,
          "Price": 2499,
-         "Image":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
+         "Image src":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
          "Duration": "3 Months"
          
      },
      
-     {
-        "Level": "Level-1",
-        "category": "Vedic Maths",
+     {      "id": 5,
+        "Level": "Level-5",
+        "category": " abacus",
         "category_id": 2,
         "Price": 2499,
         "Image":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
         "Duration": "3 Months"
         
+    },
+    {      "id": 6,
+        "Level": "Level-1",
+        "category": " abacus",
+        "category_id": 2,
+        "Price": 2499,
+        "Image":"https://i.ibb.co/jR0Ptv3/why-ulrich-learned-how-to-do-math-with-the-ancient-abacus.jpg" ,
+        "Duration": "3 Months"
+        
+    },
+    {      "id": 7,
+        "Level": "Level-2",
+        "category": " abacus",
+        "category_id": 2,
+        "Price": 2499,
+        "Image src":"https://i.ibb.co/jR0Ptv3/why-ulrich-learned-how-to-do-math-with-the-ancient-abacus.jpg" ,
+        "Duration": "3 Months"
+        
+    },
+    {      "id": 5,
+        "Level": "Level-3",
+        "category": " abacus",
+        "category_id": 2,
+        "Price": 2499,
+        "Image src":"https://i.ibb.co/jR0Ptv3/why-ulrich-learned-how-to-do-math-with-the-ancient-abacus.jpg" ,
+        "Duration": "3 Months"
+        
+    },
+    {      "id": 8,
+        "Level": "Level-4",
+        "category": " abacus",
+        "category_id": 2,
+        "Price": 2499,
+        "Image src":"https://i.ibb.co/jR0Ptv3/why-ulrich-learned-how-to-do-math-with-the-ancient-abacus.jpg" ,
+        "Duration": "3 Months"
+        
+    },
+    {      "id": 9,
+        "Level": "Level-5",
+        "category": " abacus",
+        "category_id": 2,
+        "Price": 2499,
+        "Image src":"https://i.ibb.co/jR0Ptv3/why-ulrich-learned-how-to-do-math-with-the-ancient-abacus.jpg" ,
+        "Duration": "3 Months"
+        
+    },
+    {      "id": 10,
+        "Level": "Level-6",
+        "category": " abacus",
+        "category_id": 2,
+        "Price": 2499,
+        "Image src":"https://i.ibb.co/jR0Ptv3/why-ulrich-learned-how-to-do-math-with-the-ancient-abacus.jpg" ,
+        "Duration": "3 Months"
+        
+    },
+    {      "id": 11,
+        "Level": "Level-7",
+        "category": " abacus",
+        "category_id": 2,
+        "Price": 2499,
+        "Image src":"https://i.ibb.co/jR0Ptv3/why-ulrich-learned-how-to-do-math-with-the-ancient-abacus.jpg" ,
+        "Duration": "3 Months"
+        
+    },
+    {      "id": 12,
+        "Level": "Level-8",
+        "category": " abacus",
+        "category_id": 2,
+        "Price": 2499,
+        "Image src":"https://i.ibb.co/jR0Ptv3/why-ulrich-learned-how-to-do-math-with-the-ancient-abacus.jpg" ,
+        "Duration": "3 Months"
+        
     }
-    
     
     
 
