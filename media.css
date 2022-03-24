@@ -1,5 +1,8 @@
 body{
     margin: auto;
+    background-image: url(./images/simple-abstract-dark-grey-wavy-background-with-overlayed-sheets-of-paper-modern-corporate-desing-vector.webp);
+    background-size: cover;
+   
 }
 
 
@@ -16,7 +19,7 @@ body{
 .img {
     height: 253px;
     width: 24%;
-    box-shadow: 10px 20px 10px grey;
+   
     margin-top: 2%;
     margin-left: 8%;
     float: left;
