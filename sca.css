@@ -29,7 +29,7 @@ body{
     
 }
 #aboutsca{
-    height: 500px;
+    height: 400px;
     width:auto;
     
     background-image: url(./images/simple-abstract-dark-grey-wavy-background-with-overlayed-sheets-of-paper-modern-corporate-desing-vector.webp);
@@ -97,11 +97,11 @@ body{
 }
 
 
-.pic > img {
+.pic >a > img {
     height: 222px;
     width: 100%;
 }
-.pic >img :hover{
+.pic >a>img :hover{
     transform: scale(1.1);
 }
 #coupn >.btn{
@@ -154,6 +154,11 @@ body{
     border-color: #0d6efd;
     margin-left: 3%;
     margin-top: 5%;
+}
+#inst{
+    height: 300px;
+    width: auto;
+  border: 1px solid black;
 }
 
 #testimonials{
