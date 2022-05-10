@@ -20,7 +20,7 @@ body{
     float: left;
 }
 #box1 >img {
-    height: 340px;
+    height: 384px;
     width: 98%;
 }
 #box2 {
@@ -48,7 +48,7 @@ body{
 }
    
 .dis {
-    display: inline-block;
+
     height: 215px;
     width: auto;
     margin-top: 2%;

@@ -1,8 +1,9 @@
 [
    
     {
-        "id": 1,
-        "Level": "Level-1",
+        
+        "level_id":1,
+        "level" : "level-1",
         "category": "Vedic Maths",
         "category_id": 2,
         "Price": 2499,
@@ -11,8 +12,9 @@
         
     },
     {
-       "id": 2,
-       "Level": "Level-1",
+       
+        "id":2,
+       "level" : "level-2",
         "category": "Vedic Maths",
         "category_id": 2,
         "Price": 2499,
@@ -23,8 +25,8 @@
     
     
     {
-        "id": 3,
-        "Level": "Level-1",
+        "id":3,
+        "level" : "level-3",
         "category": "Vedic Maths",
         "category_id": 2,
         "Price": 2499,
@@ -34,8 +36,9 @@
     },
     
     {
-         "id": 4,
-         "Level": "Level-1",
+     
+        "id":4,
+         "level" : "level-4",
          "category": "Vedic Maths",
          "category_id": 2,
          "Price": 2499,
@@ -44,8 +47,9 @@
          
      },
      
-     {     "id": 5,
-        "Level": "Level-1",
+     {    
+        "id":5,
+        "level" : "level-5",
         "category": "Vedic Maths",
         "category_id": 2,
         "Price": 2499,
@@ -54,8 +58,9 @@
         
     },
     {
-        "id": 6,
-        "Level": "Level-1",
+       
+        "level_id":6,
+        "level" : "level-1",
         "category": "Abacus",
         "category_id": 3,
         "Price": 2499,
@@ -64,8 +69,9 @@
         
     },
     {
-       "id": 7,
-       "Level": "Level-1",
+    
+        "id":7,
+       "level" : "level-2",
         "category": "Abacus",
         "category_id": 3,
         "Price": 2499,
@@ -76,8 +82,9 @@
      
     
     {
-        "id": 8,
-        "Level": "Level-1",
+        
+        "id":8,
+        "level" : "level-3",
         "category": "Abacus",
         "category_id": 3,
         "Price": 2499,
@@ -86,9 +93,9 @@
         
     },
     
-    {
-         "id": 9,
-         "Level": "Level-1",
+    { 
+        "id":9,
+         "level" : "level-4",
          "category": "Abacus",
          "category_id": 3,
          "Price": 2499,
@@ -97,8 +104,9 @@
          
      },
      
-     {     "id": 10,
-        "Level": "Level-1",
+     {     
+        "id":10,
+        "level" : "level-5",
         "category": "Abacus",
         "category_id": 3,
         "Price": 2499,
@@ -106,8 +114,9 @@
         "Duration": "3 Months"
         
     },
-    {     "id": 11,
-        "Level": "Level-1",
+    {     
+        "id":11,
+        "level" : "level-6",
         "category": "Abacus",
         "category_id": 3,
         "Price": 2499,
@@ -115,8 +124,9 @@
         "Duration": "3 Months"
         
     },
-    {     "id": 12,
-        "Level": "Level-1",
+    {    
+        "level_id":12,
+        "level" : "level-7",
         "category": "Abacus",
         "category_id": 3,
         "Price": 2499,
@@ -124,8 +134,9 @@
         "Duration": "3 Months"
         
     },
-    {     "id": 13,
-        "Level": "Level-1",
+    {    
+        "id":13,
+        "level" : "level-8",
         "category": "Abacus",
         "category_id": 3,
         "Price": 2499,
@@ -133,8 +144,9 @@
         "Duration": "3 Months"
         
     },
-    {     "id": 14,
-       "class":"5th std",
+    {    
+        "id":14,
+       "class":"class-5",
         "category": "Scholarship",
         "category_id": 1,
         "Price": 2999,
@@ -142,8 +154,9 @@
         "Duration": "3 Months"
         
     },
-    {     "id": 15,
-        "Level": "Level-1",
+    {    
+     
+        "class":"class-8",
         "category": "Scholarship",
         "category_id": 1,
         "Price": 2999,

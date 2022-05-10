@@ -1,8 +1,9 @@
 [    
     {
-        "id": 1,
-        "Level_id":1,
-        "Level": "Level-1",
+        
+       
+      
+        "level_id" : 1,
         "category": "Vedic Maths",
         "category_id": 2,
         "Price": 2499,
@@ -11,13 +12,24 @@
         
     },
     {
-        "id": 1,
-        "Level_id":1,
-        "Level": "Level-1",
+       
+  
+        "level_id" : 6,
         "category": "abacus",
         "category_id": 3,
         "Price": 3499,
         "Imagea src":"https://i.ibb.co/c34ML2G/309236516-H.webp", 
+        "Duration": "3 Months"
+        
+    },
+    {
+       
+        "level_id" :14,
+        "class_id": "5th standard",
+         "category": "Scholarship",
+        "category_id": 1,
+        "Price": 3499,
+        "Imagea src":"https://i.ibb.co/rxYg9g6/fe3b045e-4576-11ec-86e0-9750c834616f-1636914131062-1636956473304-1.webp" ,
         "Duration": "3 Months"
         
     }
