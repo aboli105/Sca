@@ -1,0 +1,73 @@
+#aboutsca1{
+    height: 550px;
+    width:auto;
+   
+   background-image: url(https://i.ibb.co/mqc4Grd/abt-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+}
+#head1{
+    height: 100px;
+    width:50%;
+    margin-top:16;
+    margin-left:3%;
+
+    
+
+}
+#head1 >img {
+    height: 100px;
+    width:100%;
+}
+
+#bt {
+  
+    height: 50px;
+    width: 10%;
+    margin-top: 4%;
+    margin-left: 48%;
+}
+/* .pic {
+    height: 225px;
+    width: 21%;
+    margin-top: 3%;
+    margin-left: 10%;
+    box-shadow: 10px 20px 10px grey;
+    float: left;
+} */
+
+.course{
+    margin-left:5%;
+    margin-right:5%;
+}
+.columns{
+    width:200px;
+    
+}
+.pic:hover{
+    transform: scale(1.1);
+}
+.pic img {
+    margin-left: 9%;
+    height: 293px;
+    width: 313px;
+}
+.name {
+    height: 50px;
+    width: 70%;
+    margin-top: 14%;
+    margin-left: 26%;
+    float: left;
+    
+    color: grey;
+}
+.row{
+    width:100%;
+}
+
+
+.pic >a>img :hover{
+    transform: scale(1.1);
+}
+

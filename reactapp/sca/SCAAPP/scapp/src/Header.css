@@ -1,0 +1,22 @@
+h6{
+ color:azure  ;
+ 
+}
+.container-fluid>img{
+    height: 20px;
+}
+.space{
+    margin-left: 2%;
+    float: left;
+    color: white;
+}
+#sp {
+    width: 94%;
+    height: 28px;
+    
+}
+
+h6>.space{
+    width:10%;
+    margin-left:10%;
+}
