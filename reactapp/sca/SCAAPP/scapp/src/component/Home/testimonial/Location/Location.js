@@ -12,7 +12,7 @@ const Location = ()  => {
                 </div>
                 <div class="map" >
                  <h3 id="c1">Contact Us</h3>
-                 {/* <form>
+                 <form>
                   <div class="mb-3">
                     <label for="exampleInputEmail1" class="form-label">Email address</label>
                     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"/>
@@ -26,12 +26,12 @@ const Location = ()  => {
                       <label for="exampleInputPassword1" class="form-label">Contact Number</label>
                       <input type="password" class="form-control" id="exampleInputPassword1"/>
                     </div>
-                  <div class="mb-3 form-check">
+                   <div class="mb-3 form-check">
                     <input type="checkbox" class="form-check-input" id="exampleCheck1"/>
-                    <label class="form-check-label" for="exampleCheck1" style="color:white">Check me out</label>
+                    <label class="form-check-label" for="exampleCheck1" >Check me out</label>
                   </div>
                   <button type="submit" class="btn btn-primary">Submit</button>
-                 </form> */}
+                 </form> 
                 
                 </div> 
             </div> 

@@ -19,20 +19,20 @@ const Testiimonial= () => {
                     </div>
                     <div class="review">
                       <i class="bi bi-quote"></i>
-                    <p >  I was very slow in Calculations but after joining Vedic Maths my calculations speed also increased!</p>
-                    <h6 >-Ananya Vazhapilly</h6>
+                    <p >  I like this session.. I learn so many tricks to solve sums easily. This tricks useful for any competitive exam. Thank you.</p>
+                    <h6 >-Tejashri Nitwane</h6>
         
                     </div>
                     <div class="review">
                       <i class="bi bi-quote"></i>
-                    <p >  I was very slow in Calculations but after joining Vedic Maths my calculations speed also increased!</p>
-                    <h6 >-Ananya Vazhapilly</h6>
+                    <p >  Loved every minue studying and gained great knowledge. Looking forward to life as a life coach and being part of changing lives for the betterest!</p>
+                    <h6 >- Shourya Waghmare</h6>
         
                     </div>
                     <div class="review">
                       <i class="bi bi-quote"></i>
-                    <p >  I was very slow in Calculations but after joining Vedic Maths my calculations speed also increased!</p>
-                    <h6 >-Ananya Vazhapilly</h6>
+                    <p >  I would like to thank you for the helpful guidance provided by the tutorial department. I am happy with my tutor who is very efficient and shared his knowledge and experience with me!</p>
+                    <h6 >-Ketaki Deshpande</h6>
         
                     </div>
 

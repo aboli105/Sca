@@ -47,6 +47,18 @@ app.get('/level',(req,res) => {
         res.send(result)
     })
 })
+
+//header
+app.get('/header/:id',(req,res) => {
+    let headid = Number(req.params.id)
+    const query = {
+        "id": headid
+    }
+    db.collection('Header').find(query).toArray((err,result) => {
+        if(err) throw err;
+        res.send(result)
+    })
+})
 //details
 app.get('/details',(req,res) => {
     let categoryid = Number(req.query.categoryid)
@@ -98,6 +110,39 @@ app.put('/updateCourse/:id',(req,res) => {
         }
     )
 })
+//addtocart
+app.post('/addToCart',(req,res) => {
+    if(req.body){
+        db.collection('Mycourses').insertOne(req.body,(err,result) => {
+            if(err) throw err;
+            res.status(200).send(result);
+        })
+    }else{
+        res.send('Invalid Input')
+    }
+   
+})
+//getmycart
+app.get('/Viewcart',(req,res) => {
+    db.collection('Mycourses').find().toArray((err,result) => {
+        if(err) throw err;
+        res.send(result)
+    })
+})
+
+//remove
+app.delete('/deleteCart/:id',(req,res) => {
+   
+    let oId = Number(req.params.id)
+    const query ={
+        "level_id": oId
+    }
+    db.collection('Mycourses').deleteOne(query),(err,result) => {
+        if(err) throw err;
+        res.send(result)
+    }
+})
+   
 
 // Connection with db
 MongoClient.connect(mongoLiveurl, (err,client) => {
@@ -107,3 +152,7 @@ MongoClient.connect(mongoLiveurl, (err,client) => {
         console.log(`Server is running on port ${port}`)
     })
 })
+
+
+
+

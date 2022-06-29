@@ -19,3 +19,11 @@ background-color: #181d34;
 #c1{
     color: white;
 }
+.map>iframe {
+    height: 430px;
+    border: 0;
+    width: 68%;
+}
+label{
+    color: white;
+}

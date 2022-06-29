@@ -1,22 +1,25 @@
-h6{
- color:azure  ;
- 
-}
-.container-fluid>img{
-    height: 20px;
-}
-.space{
-    margin-left: 2%;
-    float: left;
-    color: white;
-}
-#sp {
-    width: 94%;
-    height: 28px;
-    
+header{
+    height:60px;
+    background-color:#e09c83
 }
 
-h6>.space{
-    width:10%;
-    margin-left:10%;
+#icon{
+    float:left
+}
+
+#social{
+    float: right;
+    margin-right: 5%;
+    margin-top: 1%;
+}
+
+.slogo{
+    height: 50px;
+    width: 50px;
+}
+.btnclass{
+    margin-top: 1%;
+}
+.btnlogin{
+    display:inline-block
 }

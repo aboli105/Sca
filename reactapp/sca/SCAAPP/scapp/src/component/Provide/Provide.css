@@ -28,38 +28,34 @@
     margin-top: 4%;
     margin-left: 48%;
 }
-/* .pic {
-    height: 225px;
-    width: 21%;
-    margin-top: 3%;
-    margin-left: 10%;
-    box-shadow: 10px 20px 10px grey;
+#newpic {
+    box-shadow: 1px 1px 14px rgba(0, 0, 0, 0.76);
+    height: 329px;
+    width: 27%;
+   
     float: left;
-} */
-
-.course{
-    margin-left:5%;
-    margin-right:5%;
+    margin-left: 5%;
 }
-.columns{
-    width:200px;
-    
-}
-.pic:hover{
+#newpic:hover{
     transform: scale(1.1);
 }
-.pic img {
-    margin-left: 9%;
-    height: 293px;
-    width: 313px;
+
+.course{
+ height: 200px;
+ width:80%;
+ border:1px solid black;
 }
+#newpic>a>img {
+    height: 327px;
+    width: 100%;
+} 
+
 .name {
+    margin-left: 24%;
     height: 50px;
     width: 70%;
     margin-top: 14%;
-    margin-left: 26%;
     float: left;
-    
     color: grey;
 }
 .row{
@@ -69,5 +65,11 @@
 
 .pic >a>img :hover{
     transform: scale(1.1);
+}
+#cardtile{
+    height: 100px;
+    width: 30%;
+    border: 1px solid black;
+    float: left;
 }
 

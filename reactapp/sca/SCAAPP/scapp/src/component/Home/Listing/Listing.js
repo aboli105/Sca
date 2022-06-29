@@ -3,7 +3,10 @@
 import React from "react"; 
 import './listing.css'; 
 import {Link} from 'react-router-dom';
-let param ;
+import Header from "../../../header";
+import Heading from '../Listing/Heading'
+
+let param ; 
 let url;
 class Listing extends React.Component { 
    
@@ -13,6 +16,7 @@ class Listing extends React.Component {
         
         this.state = { 
             items: [], 
+            head: [],
             DataisLoaded: false 
         }; 
       param =props.match.params.id
@@ -23,7 +27,7 @@ class Listing extends React.Component {
     
     componentDidMount() { 
         fetch( 
-`https://edutech-app1.herokuapp.com/level?categoryid=${param}`) 
+`https://ancient-wave-85597.herokuapp.com/level?categoryid=${param}`) 
             .then((res) => res.json()) 
             .then((json) => { 
                 console.log(json) 
@@ -35,6 +39,13 @@ class Listing extends React.Component {
                    
                 }); 
             }) 
+            fetch(`https://ancient-wave-85597.herokuapp.com/header/${param}`)
+            .then((res)  => res.json())
+            .then((data)  => {
+                this.setState({
+                    head: data
+                })
+            })
            
          
     } 
@@ -43,14 +54,16 @@ class Listing extends React.Component {
         
         const { DataisLoaded, items } = this.state; 
         if (!DataisLoaded) return <div> 
-            <h1> Pleses wait some time.... </h1> </div> ; 
+            <h1>  </h1> </div> ; 
    
  
       
        
    return (
     <div>
-   
+        <Heading  headingdata={this.state.head}/>
+    
+    <div id="newtile">
         <div class="row">
             
          
@@ -58,26 +71,30 @@ class Listing extends React.Component {
             items.map((item) => ( 
                 console.log(item.category),
              
-              <div className="col columns ">
+             
                <div class="tile">
         <div id="img2">
              <img src ={item.Image}/>
        </div>
-       <div id="img3">   <h2>{item.level}</h2>
-        <h5 >Complete Vedic Maths Level 1</h5>
+       <div id="img3">   <h2><Link to={`/Details/${item.level_id}`}> {item.level}
+                                         
+                                        </Link> </h2>
+        <h6 id="tag">{item.Tagline}</h6>
+          
          <span>Duration : {item.Duration}</span>
-       <p > Price :{item.Price}</p>
-  
+       <p id="price"> Price :{item.Price}</p>
+       
       </div>
                
       </div>
 
-       </div>
+     
 
           
            )) 
          
     }    
+    </div>
     </div>
     </div>
    

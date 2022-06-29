@@ -8,53 +8,58 @@
         "category_id": 2,
         "Price": 2499,
         "Image":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
-        "Duration": "3 Months"
+        "Duration": "3 Months",
+        "Tagline" : "Complete Vedic Maths Level-1"
         
     },
     {
        
-        "id":2,
+        "level_id":2,
        "level" : "level-2",
         "category": "Vedic Maths",
         "category_id": 2,
         "Price": 2499,
         "Image":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
-        "Duration": "3 Months"
+        "Duration": "3 Months",
+        "Tagline" : "Complete Vedic Maths Level-2"
         
     },
     
     
     {
-        "id":3,
+        "level_id":3,
         "level" : "level-3",
         "category": "Vedic Maths",
         "category_id": 2,
         "Price": 2499,
         "Image":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
-        "Duration": "3 Months"
+        "Duration": "3 Months",
+        "Tagline" : "Complete Vedic Maths Level-3"
         
     },
     
     {
      
-        "id":4,
+        "level_id":4,
          "level" : "level-4",
          "category": "Vedic Maths",
          "category_id": 2,
          "Price": 2499,
          "Image":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
-         "Duration": "3 Months"
+         "Duration": "3 Months",
+         "Tagline" : "Complete Vedic Maths Level-4"
          
      },
      
      {    
-        "id":5,
+        "level_id":5,
         "level" : "level-5",
         "category": "Vedic Maths",
         "category_id": 2,
         "Price": 2499,
         "Image":"https://i.ibb.co/Qn71fKz/main-logo.png" ,
-        "Duration": "3 Months"
+        "Duration": "3 Months",
+        "Tagline" : "Complete Vedic Maths Level-5"
         
     },
     {
@@ -65,63 +70,69 @@
         "category_id": 3,
         "Price": 2499,
         "Image":"https://i.ibb.co/jR0Ptv3/why-ulrich-learned-how-to-do-math-with-the-ancient-abacus.jpg" ,
-        "Duration": "3 Months"
+        "Duration": "3 Months",
+        "Tagline" : "Complete Vedic Maths Level-1"
         
     },
     {
     
-        "id":7,
+        "level_id":7,
        "level" : "level-2",
         "category": "Abacus",
         "category_id": 3,
         "Price": 2499,
         "Image":"https://i.ibb.co/jR0Ptv3/why-ulrich-learned-how-to-do-math-with-the-ancient-abacus.jpg" ,
-        "Duration": "3 Months"
+        "Duration": "3 Months",
+        "Tagline" : "Complete Abacus Level-2"
         
     },
      
     
     {
         
-        "id":8,
+        "level_id":8,
         "level" : "level-3",
         "category": "Abacus",
         "category_id": 3,
         "Price": 2499,
         "Image":"https://i.ibb.co/jR0Ptv3/why-ulrich-learned-how-to-do-math-with-the-ancient-abacus.jpg",
-        "Duration": "3 Months"
+        "Duration": "3 Months",
+        "Tagline" : "Complete Abacus Level-3"
         
     },
     
     { 
-        "id":9,
+        "level_id":9,
          "level" : "level-4",
          "category": "Abacus",
          "category_id": 3,
          "Price": 2499,
          "Image":"https://i.ibb.co/jR0Ptv3/why-ulrich-learned-how-to-do-math-with-the-ancient-abacus.jpg" ,
-         "Duration": "3 Months"
+         "Duration": "3 Months",
+         "Tagline" : "Complete Abacus Level-4"
          
      },
      
      {     
-        "id":10,
+        "level_id":10,
         "level" : "level-5",
         "category": "Abacus",
         "category_id": 3,
         "Price": 2499,
         "Image":"https://i.ibb.co/jR0Ptv3/why-ulrich-learned-how-to-do-math-with-the-ancient-abacus.jpg" ,
-        "Duration": "3 Months"
+        "Duration": "3 Months",
+        "Tagline" : "Complete Abacus Level-5"
         
     },
     {     
-        "id":11,
+        "level_id":11,
         "level" : "level-6",
         "category": "Abacus",
         "category_id": 3,
         "Price": 2499,
         "Image":"https://i.ibb.co/jR0Ptv3/why-ulrich-learned-how-to-do-math-with-the-ancient-abacus.jpg" ,
-        "Duration": "3 Months"
+        "Duration": "3 Months",
+        "Tagline" : "Complete Abacus Level-6"
         
     },
     {    
@@ -131,37 +142,42 @@
         "category_id": 3,
         "Price": 2499,
         "Image":"https://i.ibb.co/jR0Ptv3/why-ulrich-learned-how-to-do-math-with-the-ancient-abacus.jpg",
-        "Duration": "3 Months"
+        "Duration": "3 Months",
+        "Tagline" : "Complete Abacus Level-7"
         
     },
     {    
-        "id":13,
+        "level_id":13,
         "level" : "level-8",
         "category": "Abacus",
         "category_id": 3,
         "Price": 2499,
         "Image":"https://i.ibb.co/jR0Ptv3/why-ulrich-learned-how-to-do-math-with-the-ancient-abacus.jpg",
-        "Duration": "3 Months"
+        "Duration": "3 Months",
+        "Tagline" : "Complete Abacus Level-8"
         
     },
     {    
-        "id":14,
-       "class":"class-5",
+        "level_id":14,
+       "level":"class-5",
         "category": "Scholarship",
         "category_id": 1,
         "Price": 2999,
         "Image":"https://i.ibb.co/4Y09CK1/sch.png",
-        "Duration": "3 Months"
+        "Duration": "3 Months",
+       "Tagline" : " Pre Upper Primary Scholarship Examination (PUP)- Class 5th"
         
     },
     {    
-     
-        "class":"class-8",
+        "level_id":15,
+        "level":"class-8",
         "category": "Scholarship",
         "category_id": 1,
         "Price": 2999,
         "Image":"https://i.ibb.co/4Y09CK1/sch.png" ,
-        "Duration": "3 Months"
+        "Duration": "3 Months",
+         "Tagline" : " Pre Secondary Scholarship Examination (PSP)- Class 8th."
+
         
     }
 ]

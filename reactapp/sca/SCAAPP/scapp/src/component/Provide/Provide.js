@@ -21,7 +21,7 @@ class Provide extends React.Component {
     
     componentDidMount() { 
         fetch( 
-"https://edutech-app1.herokuapp.com/category") 
+"https://ancient-wave-85597.herokuapp.com/category") 
             .then((res) => res.json()) 
             .then((json) => { 
                 console.log(json) 
@@ -41,44 +41,48 @@ class Provide extends React.Component {
         
         const { DataisLoaded, items } = this.state; 
         if (!DataisLoaded) return <div> 
-            <h1> Pleses wait some time.... </h1> </div> ; 
+            <h1> </h1> </div> ; 
    
  
       
        
    return (
-    <div>
+    
     <div  id="aboutsca1">
     <div id="head1">
      <h1> What We Provide?</h1>
-     <div className="course">
-      </div>
       </div> 
+
+   
+     
        
-        <div class="row">
+      
          
     { 
             items.map((item) => ( 
                 console.log(item.category),
              
-              <div className="col">
+              <div id="newpic">
              
-              <div className="pic">
+             
               <Link to={`/Listing/${item.id}`}key={item._id}><img src={item.image}></img></Link>
-                    </div>
+                   
                 <div className="name">
                     <h1>{item.category}</h1>
             
 
              </div>
              </div>
+           
           
            )) 
          
     }    
+    
+     
     </div>
-    </div>
-    </div>
+
+
     
     
 ); 
